@@ -1,0 +1,45 @@
+.add-button {
+  right: 0;
+  float: right;
+}
+.action-button {
+  display: flex;
+  justify-content: flex-end;
+}
+.sell-buy-container {
+  display: flex;
+}
+.detail-card-title {
+  margin: 0;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: 450;
+  line-height: 1.334;
+  letter-spacing: 0.02rem;
+  color: rgba(40, 35, 74, 0.6);
+}
+
+.detail-label {
+  font-family: inherit !important;
+  text-decoration: none;
+  margin: 0;
+  padding: 10px;
+  font-size: .9rem !important;
+  font-weight: 450;
+  line-height: 1.334;
+  letter-spacing: 0.02rem;
+  color: rgba(40, 35, 74, 0.6);
+}
+
+.detail-info {
+  font-family: inherit !important;
+  color: black !important;
+  font-size: .9rem !important;
+  right: 0;
+  padding-left: 10px !important;
+  word-wrap: break-word;
+}
+/*
+#ceebce sell
+#fff0b0 buy
+*/

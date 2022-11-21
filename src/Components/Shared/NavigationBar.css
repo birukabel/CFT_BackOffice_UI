@@ -1,0 +1,33 @@
+.container-fluid span{
+    text-align: left;
+    padding-left: 50px;
+    font-size: larger;
+    font-weight: 700;
+  
+}
+.navbar{
+    background-color:#fff; /* #f5e86c; */ 
+    margin-left: 18vw; 
+    height: 64px;;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title{
+    font-size:25px !important;
+    color: rgb(136 143 153);
+}
+.toggle{
+    margin-right: 3vw;
+}
+.avatar{
+    text-decoration: none;
+    margin-right: 1vw;
+    background-color: "#3e6c4a"
+}
+button {
+    text-transform: capitalize !important;
+  }
